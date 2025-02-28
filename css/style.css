@@ -1,0 +1,28 @@
+p{
+    color: rgb(110, 170, 177);
+}
+body{
+    background-color: rgb(2, 23, 48); /*Forma mais intera de CSS ganha prioridade*/
+    text-align: center;
+}
+
+.titulo{
+    font-size:xx-small;
+}
+.titulo2{
+    font-size:xx-large;
+}
+
+#texto-colorido{
+    color: aqua;
+}
+
+.top{
+    background-color: blue;
+}
+.conteudo{
+    background-color: rgb(0, 89, 255);
+}
+.rodape{
+    background-color: rgb(0, 140, 255);
+}
